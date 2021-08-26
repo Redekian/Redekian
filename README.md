@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redekian
-- 👀 I’m interested in discord bot programming, specifically on discord.js
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in java development
+- 🌱 I’m currently learning Java as my first language
 - 📫 Talk to me via discord: Redek#1234
 
 <!---
